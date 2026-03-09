@@ -41,8 +41,14 @@ SEQUENCE DIAGRAM:-
 
 ACTIVITY DIAGRAM:-
 
+
+
+
 <img width="967" height="867" alt="image" src="https://github.com/user-attachments/assets/7cfcebb7-f4f4-4706-a482-46077fd6e9f6" />
 
 ### RESULT:
+
+
+
 
 Thus the Atm and banking System project was executed and the output was verified.
